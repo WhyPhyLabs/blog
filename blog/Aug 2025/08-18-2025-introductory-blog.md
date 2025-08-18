@@ -1,3 +1,7 @@
+---
+title: Introducing WhyPhy Labs
+description: WhyPhy Labs is building AGI for a world of abundance. Our mission is to train world-class, open-source LLMs and serve them to the world, as we pursue AGI. 
+---
 # Introducing WhyPhy Labs
 
 WhyPhy Labs is building AGI for a world of abundance. Our mission is to train world-class, open-source LLMs and serve them to the world, as we pursue AGI. 
