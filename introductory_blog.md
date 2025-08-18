@@ -13,4 +13,5 @@ Our success is symbiotically interwoven with that of our customers. Because of t
 If you’re a builder, member of the Open Ecosystem, or just someone who shares our belief in an abundant, open future for AGI, <a href="https://whyphy.ai/contact">we’d love to hear from you</a> and learn how we can best build towards it together.
 
 <a href="https://x.com/Big_Uppy">Spencer Garnets</a> and <a href="https://x.com/xsudoer">Aria Bagheri</a>
+
 Co-Founders of WhyPhy Labs
